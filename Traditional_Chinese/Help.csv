@@ -484,11 +484,11 @@ CLIENT_HELP_INC_000482,Poison Cloud,毒雲密佈
 CLIENT_HELP_INC_000483,"A poison cloud engulfs the enemy, dealing poison and wind damage.",召喚毒雲，並使用風與毒進行攻擊。
 CLIENT_HELP_INC_000484,Water Mastery,水元素精通
 CLIENT_HELP_INC_000485,Increases damage done by water skills.,提升水元素的攻擊力。
-CLIENT_HELP_INC_000486,Meteo Shower,隕星驟雨
+CLIENT_HELP_INC_000486,Meteo Shower,熾隕星雨
 CLIENT_HELP_INC_000487,"Meteors strike all the enemies in a certain area, dealing fire and earth damage.",召喚隕石來攻擊周圍所有的敵人，使敵人受到火與地元素的攻擊。
-CLIENT_HELP_INC_000488,Lightning Storm,雷風狂襲
+CLIENT_HELP_INC_000488,Lightning Storm,雷獄風暴
 CLIENT_HELP_INC_000489,Lightning and wind damage is dealt to all enemies in the area of effect.,讓周圍所有的敵人受到風與雷的攻擊
-CLIENT_HELP_INC_000490,Sandstorm,沙塵風暴
+CLIENT_HELP_INC_000490,Sandstorm,沙葬風暴
 CLIENT_HELP_INC_000491,"A sand storm strikes all the enemies in a certain area, dealing wind and earth damage.","""引發沙暴,讓周圍所有的敵人受到風與雷的攻擊。"""
 CLIENT_HELP_INC_000492,Blizzard,凜冬暴雪
 CLIENT_HELP_INC_000493,"A blizzard strikes all the enemies in a certain area, dealing earth and water damage as well as stunning them.",引發雪崩，使周圍所有的敵人受到水與地元素的攻擊，並有昏眩的效果。
