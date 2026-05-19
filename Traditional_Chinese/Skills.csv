@@ -1053,19 +1053,19 @@ PROPSKILL_TXT_150516,Grasping Roots,攫取根鬚
 PROPSKILL_TXT_150517,Stranglethorns,棘藤絞殺
 PROPSKILL_TXT_150518,Nature's Grasp,森羅之握
 PROPSKILL_TXT_150519,"Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them.",向前方發射根鬚，束縛命中的第一個敵人。若被束縛的敵人處於石柱或沼澤區域影響下，則會被石化：受到的魔法傷害提升、受到的物理傷害降低，並被眩暈。
-PROPSKILL_TXT_150520,Stigma I,鏈刃印擊 I
-PROPSKILL_TXT_150521,Increased Stigma,鏈刃印擊層數提升
-PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",對直線上的單個目標發動迅捷穿刺攻擊，施加一層鏈刃印擊。若對擁有 5 層鏈刃印擊的目標使用，該攻擊會貫穿所有敵人。
-PROPSKILL_TXT_150523,Stigma II,鏈刃印擊 II
+PROPSKILL_TXT_150520,Stigma I,刃印 I
+PROPSKILL_TXT_150521,Increased Stigma,刃印層數提升
+PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",對直線上的單個目標發動迅捷穿刺攻擊，施加一層刃印。若對擁有 5 層刃印的目標使用，該攻擊會貫穿所有敵人。
+PROPSKILL_TXT_150523,Stigma II,刃印 II
 PROPSKILL_TXT_150524,Increased Targets,增加目標數量
-PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.",向目標發射鎖鏈刀刃，將其束縛，持續旋轉攻擊周圍敵人，隨後鎖鏈會連線至附近另一目標。有機率施加一層鏈刃印擊。若對擁有 5 層鏈刃印擊的目標使用，攻擊時會吸取生命值。
-PROPSKILL_TXT_150526,Stigma III,鏈刃印擊 III
-PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.",雙持武器猛擊目標，對其周圍造成傷害，並施加一層鏈刃印擊。若對擁有 5 層鏈刃印擊的目標使用，會使其沉默。
+PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.",向目標發射鎖鏈刀刃，將其束縛，持續旋轉攻擊周圍敵人，隨後鎖鏈會連線至附近另一目標。有機率施加一層刃印。若對擁有 5 層刃印的目標使用，攻擊時會吸取生命值。
+PROPSKILL_TXT_150526,Stigma III,刃印 III
+PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.",雙持武器猛擊目標，對其周圍造成傷害，並施加一層刃印。若對擁有 5 層刃印的目標使用，會使其沉默。
 PROPSKILL_TXT_150528,Petrify,石化
 PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.",你處於定身狀態，受到的物理傷害降低，但魔法傷害增加。
 PROPSKILL_TXT_150530,Earthen Fortitude,大地堅韌
 PROPSKILL_TXT_150531,Petrifying an enemy using Entangling Roots will grant you with bonuses.,用纏縛根鬚將敵人石化，會為你提供增益效果。
-PROPSKILL_TXT_150532,Stigma,鏈刃印擊
+PROPSKILL_TXT_150532,Stigma,刃印
 PROPSKILL_TXT_150533,Reduced Penalty,懲罰減輕
 PROPSKILL_TXT_150534,Critical Chance penalty is reduced.,暴擊率懲罰降低。
 PROPSKILL_TXT_150535,Full Charge Time Decrease,蓄力時間縮短
@@ -1141,7 +1141,7 @@ PROPSKILL_TXT_150604,"Skill damage scaling is improved, but cooldown is increase
 PROPSKILL_TXT_150605,"Base damage is increased, but scaling is reduced.",基礎傷害提高，但加成係數降低。
 PROPSKILL_TXT_150606,Increased Lifesteal,生命偷取提升
 PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%.,強化效果中的生命竊取提升 10%。
-PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,有機率獲得額外的鏈刃印擊層數。
+PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,有機率獲得額外的刃印層數。
 PROPSKILL_TXT_150609,Nen Release,念氣釋放
 PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,消耗一定力量，移除所有的念氣疊加。
 PROPSKILL_TXT_150611,Divinecross,神聖烙印
