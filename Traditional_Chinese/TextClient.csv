@@ -62,8 +62,8 @@ TEXTCLIENT_APP_MOTION,Emotes,動作
 TEXTCLIENT_APP_CHARINFO,Character,角色
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s 恢復限制為 %d。
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,請稍後再使用該物品。
-TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,按下城鎮之星復活 (最近的城鎮) 或使用道具原地復活。
-TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,按下城鎮之星在競技場附近復活。
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,按下生命光塔復活 (最近的城鎮) 或使用道具原地復活。
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,按下生命光塔在競技場附近復活。
 TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,您無法攻擊正在與其他玩家戰鬥的怪物。
 TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,戰鬥中，無法退出。
 TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,等級提升！您可以在角色視窗提升您的能力值。
@@ -153,7 +153,7 @@ TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s 已加入劇團。
 TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s 已退出劇團
 TEXTCLIENT_PARTYEXIT,You have left the party.,您退出了劇團。
 TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,劇團解散了。
-TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,您將此生命光塔設定為重生點。
+TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,您將此生命光柱設定為重生點。
 TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,只有劇團團長才能將團長身份轉移給劇團的另一名團員。
 TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,您無法把團長交接給離線的玩家。
 TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,您已成為了劇團團長。

@@ -110,7 +110,7 @@ CLIENT_HELP_INC_000107,This is the FAQ window. When you have questions you shoul
 CLIENT_HELP_INC_000108,Information Tab,資訊選項
 CLIENT_HELP_INC_000109,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.,此選項可讓你知道遊戲內通知，此處將不時列出各種消息和重大新聞，遊戲啟動時將會自動開啟顯示。
 CLIENT_HELP_INC_000110,Revive Menu,復活視窗
-CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.",角色的生命力變成 0 時，就會自動開啟此視窗。您可選擇回到附近城鎮的『城鎮之星』或使用持有的付費道具復活卷軸，在原地復活。這裡會出現能夠使用付費商店的付費商店選項。
+CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.",角色的生命力變成 0 時，就會自動開啟此視窗。您可選擇回到附近城鎮的『生命光塔』或使用持有的付費道具復活卷軸，在原地復活。這裡會出現能夠使用付費商店的付費商店選項。
 CLIENT_HELP_INC_000112,Trade Menu,交易視窗
 CLIENT_HELP_INC_000113,"If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed.",這是玩家之間進行物品或金錢交易時，所使用的視窗。必需要獲到雙方角色的同意，才能夠完成交易。
 CLIENT_HELP_INC_000114,Bank Menu,銀行選單
@@ -596,10 +596,10 @@ CLIENT_HELP_INC_000594,placholder 47,佔位文字 47
 CLIENT_HELP_INC_000595,placholder 48,佔位文字 48
 CLIENT_HELP_INC_000596,Building,建築物
 CLIENT_HELP_INC_000597,Information about the buildings that provide services.,在 Flyff 內，提供著必要的各種物品，除此之外還有很多支援各種機能的建築。
-CLIENT_HELP_INC_000598,Lodestar,城鎮之星
+CLIENT_HELP_INC_000598,Lodestar,生命光塔
 CLIENT_HELP_INC_000599,This is a structure that gathers spiritual life and resurrects players who died. It is located inside a city or a wide open clearing.,位在城鎮廣場的一座大型建築物。此建築物會將分散到四周的生命，召喚到此處復活。當您沒有在戰鬥場附近的生命光柱儲存復活點時，就會前往生命光塔復活。
-CLIENT_HELP_INC_000600,Lodelight,生命光塔
-CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,與生命光塔相似，但是城鎮之星分佈在大陸各個地方，您可指定其中一處復活。
+CLIENT_HELP_INC_000600,Lodelight,生命光柱
+CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,生命光柱的功能與生命光塔相似，可讓玩家在狩獵場附近復活。
 CLIENT_HELP_INC_000602,Weapon shop,武器店
 CLIENT_HELP_INC_000603,"This place sells weapons for the 1st job class such as vagrant, mercenary, and acrobat. It also sells weapons for the 2nd job class such as knight, blade, ringmaster, billposter, jester, and ranger.",販賣見習生；一轉職業：勇者、神職者、雜技師等及二轉職業：騎士、暗殺者、念力師、研術者、守護者、爆咒師、操偶師、浪人的武器。
 CLIENT_HELP_INC_000604,Armor shop,防具店

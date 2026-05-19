@@ -66,10 +66,10 @@ UI_OPTION_FULLSCREEN,Fullscreen,全螢幕
 UI_MOTION_TAB_MOT,Emotes,動作
 UI_MOTION_TAB_EMO,Emoticons,表情
 UI_REVIVAL_TITLE,Resurrection,復活
-UI_REVIVAL_LODESTAR,Lodestar,城鎮之星
+UI_REVIVAL_LODESTAR,Lodestar,生命光塔
 UI_REVIVAL_LODESTAR_TIP,Revive at the nearest town,在最近的城鎮復活
-UI_REVIVAL_LODELIGHT,Lodelight,生命光塔
-UI_REVIVAL_LODELIGHT_TIP,Revive at your chosen Lodelight,在已選擇的生命光塔復活
+UI_REVIVAL_LODELIGHT,Lodelight,生命光柱
+UI_REVIVAL_LODELIGHT_TIP,Revive at your chosen Lodelight,在已選擇的生命光柱復活
 UI_CHARINFO_BASE,Base,基本
 UI_CHARINFO_NAME,Name,名稱
 UI_CHARINFO_LOGIN,Login,登入
@@ -2317,8 +2317,8 @@ UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,對玩家暴擊傷害
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,對玩家暴擊率
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,金幣掉落加成
 UI_OPTION_UNDERWATER,Underwater Effect,水下效果
-UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,在生命光塔復活?
-UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,在城鎮之星復活?
+UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,在生命光柱復活?
+UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,在生命光塔復活?
 UI_CASHSHOP_CONFIRM_MSG_CMT,Purchase %dx %s (x%d) for %s?,購買 %dx %s (x%d) 需要 %s 嗎？
 UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,在朋友的房屋留言簿中寫下
 UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,購買成功！
