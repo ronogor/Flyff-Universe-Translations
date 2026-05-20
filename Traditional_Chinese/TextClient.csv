@@ -123,7 +123,7 @@ TEXTCLIENT_COMMUNICATION,Communication,通訊
 TEXTCLIENT_COMMUNITY,Community,社群
 TEXTCLIENT_HELPER,Helper,助手
 TEXTCLIENT_APP_ITEM_DURATION,Duration,持續時間
-TEXTCLIENT_APP_MESSENGER,Messenger,即時通
+TEXTCLIENT_APP_MESSENGER,Messenger,好友
 TEXTCLIENT_APP_PARTY,Party,劇團
 TEXTCLIENT_APP_GUILD,Guild,公會
 TEXTCLIENT_APP_COUPLE,Couple,情侶
@@ -217,7 +217,7 @@ TEXTCLIENT_GUILDCOMBAT_CANNOT_FRIENDADD,You cannot add friends in the Guild Sieg
 TEXTCLIENT_BATTLE_NOTFRIEND,You cannot add someone to your friends list while dueling.,戰鬥中無法加入好友。
 TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,對方拒絕將您加入好友名單中。
 TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s 目前不接受好友邀請。
-TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,即時通可登記的好友名單為 200 人。
+TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,可登記的好友名單為 200 人。
 TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s 已將您加入好友名單。
 TEXTCLIENT_NOTLOGIN,That player is offline.,玩家不在線上。
 TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.",訊息發送失敗，已被 %s 封鎖。
