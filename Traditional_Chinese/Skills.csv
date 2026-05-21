@@ -131,7 +131,7 @@ PROPSKILL_TXT_000129,Increases damage dealt to the target while also increasing 
 PROPSKILL_TXT_000130,Bgvur Tialbold,波動拳
 PROPSKILL_TXT_000131,Strikes nearby enemies with an outward shockwave.,利用氣的波動進行攻擊自己周圍的怪物。
 PROPSKILL_TXT_000132,Asalraalaikum,羅煞狂爆拳
-PROPSKILL_TXT_000133,A fully concentrated strike. Always consumes 100% MP.,消耗所有的魔力來製造最大的傷害。
+PROPSKILL_TXT_000133,A fully concentrated strike. Always consumes 100% MP.,全力集中的一擊。每次都會消耗 100% 魔力。
 PROPSKILL_TXT_000134,Flame Ball,灼炎球
 PROPSKILL_TXT_000135,Strikes the enemy with a ball of flame that may reduce the target's HP Restoration.,用火球攻擊敵人，降低目標治療能力的機率。
 PROPSKILL_TXT_000136,Flame Geyser,炎柱噴發
@@ -146,7 +146,7 @@ PROPSKILL_TXT_000145,Blasts the enemy with a missile of ice that may reduce the 
 PROPSKILL_TXT_000146,Lightning Ball,雷光彈
 PROPSKILL_TXT_000147,Damages the enemy with a ball of static that may reduce the target's defense.,藉助雷精靈的力量攻擊敵人，有機率減少目標的防禦力。
 PROPSKILL_TXT_000148,Stone Spike,岩刺術
-PROPSKILL_TXT_000149,Damages the enemy with a stone spike that may stun.,藉助大地精靈的力量攻擊敵人， 有機率將敵人擊暈。
+PROPSKILL_TXT_000149,Damages the enemy with a stone spike that may stun.,藉助大地精靈的力量攻擊敵人，有機率將敵人擊暈。
 PROPSKILL_TXT_000150,Mental Strike,念能衝擊
 PROPSKILL_TXT_000151,A medium-ranged mental attack.,集中精神力發動無元素攻擊。
 PROPSKILL_TXT_000152,Fire Strike,火神之怒
@@ -350,7 +350,7 @@ PROPSKILL_TXT_100025,Lets out a furious shout that forces the target enemy and s
 PROPSKILL_TXT_100026,Heart of Sacrifice,犧牲之心
 PROPSKILL_TXT_100027,Redirects damage taken by the target player to yourself.,將目標玩家受到的傷害轉移到自己身上。
 PROPSKILL_TXT_000392,Rending Entry,裂隙突襲
-PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset.",瞬移至滑鼠點擊位置，對周圍敵人造成傷害，並有機率使敵人定身。若敵人被此技能擊殺，技能冷卻時間將重置。
+PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset.",瞬移至滑鼠點選位置，對周圍敵人造成傷害，並有機率使敵人定身。若敵人被此技能擊殺，技能冷卻時間將重置。
 PROPSKILL_TXT_000394,Barrier of Life,生命屏障
 PROPSKILL_TXT_000395,Grants the target a barrier that causes all incoming hits to be blocked for a short duration.,賦予目標屏障，在短時間內格擋所有受到的攻擊。
 PROPSKILL_TXT_000430,Gravity Well,引力之淵
@@ -433,7 +433,7 @@ PROPSKILL_TXT_100084,"The Demon Lord has cursed you with overwhelming exhaustion
 PROPSKILL_TXT_100085,Blessing of the Golden Aibatt,黃金獨眼蝙蝠的祝福
 PROPSKILL_TXT_100086,"Blessed by the Golden Aibatt's generosity, this monster grants 10% increased EXP and drop rates when defeated.",受到黃金獨眼蝙蝠慷慨的祝福，擊敗此怪物可獲得 10% 額外經驗和物品掉落率。
 PROPSKILL_TXT_100087,Shade's Swiftness,闇影疾行
-PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.","由恐懼之神闇影,賦予的風之祝福,提升玩家的敏捷與移動速度。"
+PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.",由恐懼之神闇影，賦予的風之祝福，提升玩家的敏捷與移動速度。
 PROPSKILL_TXT_100089,Iblis' Fortitude,伊普里司堅毅
 PROPSKILL_TXT_100090,"Iblis is a revered god of apathy and neutrality, and they grant this buff to players by infusing them with a burst of life energy that increases their maximum health and allows them to withstand more damage.",由敬仰之神伊普里司，賦予的生命祝福，提升最大生命值能承受更多傷害。
 PROPSKILL_TXT_100091,Bubble's Bulwark,巴布樂的庇護
@@ -659,7 +659,7 @@ PROPSKILL_TXT_140019,"The Asylum bestows a 10% attack boost, filling you with ee
 PROPSKILL_TXT_140020,Asylum Boss DMG Low Bless,幽禁所‧首領增傷微弱祝福
 PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5% more damage to bosses.",在幽禁所之力的加持下，你對首領造成的傷害提升 5%。
 PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,幽禁所‧首領增傷祝福
-PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,一股狂暴之力在你體內洶湧！ 首領受到你的攻擊時，所受傷害增加 10%。
+PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,一股狂暴之力在你體內洶湧！首領受到你的攻擊時，所受傷害增加 10%。
 PROPSKILL_TXT_140024,Asylum All Stats Low Bless,幽禁所‧能力微弱祝福
 PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,幽禁所賜予你非自然的調和之力。你的基礎能力值提升 10 點，彷彿被無形之力所指引。
 PROPSKILL_TXT_140026,Asylum All Stats High Bless,幽禁所‧能力強化祝福

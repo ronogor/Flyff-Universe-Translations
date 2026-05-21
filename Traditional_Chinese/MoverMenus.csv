@@ -4,7 +4,7 @@ MMI_1,Quest,任務
 MMI_2,Trade,交易
 MMI_3,Attack,攻擊
 MMI_4,Message,訊息
-MMI_5,Add to my list,追加到即時通
+MMI_5,Add to my list,好友邀請
 MMI_6,Invite to join party,劇團邀請
 MMI_7,Invite to join guild,公會邀請
 MMI_8,Place of Resurrection,指定場所
@@ -18,10 +18,10 @@ MMI_15,Guild Bank,公會銀行
 MMI_16,Guild Rankings,公會排名
 MMI_17,Guild Duel Rankings,公會決鬥排名
 MMI_18,Guild Statistics Rankings,公會統計排名
-MMI_21,Register Bounty,登錄懸賞金
+MMI_21,Register Bounty,登記懸賞金
 MMI_22,Bounty List,懸賞金名單
 MMI_24,View equipment,查看裝備
-MMI_25,Mailbox,郵箱
+MMI_25,Mailbox,信箱
 MMI_26,Apply,套用
 MMI_27,Status,狀態
 MMI_28,Cancel,取消

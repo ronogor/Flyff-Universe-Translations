@@ -37,8 +37,8 @@ PROPMOVER_TXT_000070,1st Class Fefern,小蜥蜴草
 PROPMOVER_TXT_000072,Fefern,蜥蜴草
 PROPMOVER_TXT_000074,2nd Class Fefern,毒蜥蜴草
 PROPMOVER_TXT_000076,Giant Fefern,變種蜥蜴草
-PROPMOVER_TXT_000078,Cute Nyangnyang,可愛的喵娘
-PROPMOVER_TXT_000080,Nyangnyang,裝可愛的喵娘
+PROPMOVER_TXT_000078,Cute Nyangnyang,可愛喵娘
+PROPMOVER_TXT_000080,Nyangnyang,裝可愛喵娘
 PROPMOVER_TXT_000082,Creep Nyangnyang,嗆聲的喵娘
 PROPMOVER_TXT_000084,Giant Nyangnyang,喵娘女王
 PROPMOVER_TXT_000086,Bang,崩崩嘍囉
@@ -386,7 +386,7 @@ PROPMOVER_TXT_000822,Chimeradon,變種蝙蝠俠
 PROPMOVER_TXT_000824,Giant Chimeradon,巨型變種蝙蝠俠
 PROPMOVER_TXT_000826,Meteonyker,地炎飛龍
 PROPMOVER_TXT_000828,Baby Lawolf,布魯狼寶貝
-PROPMOVER_TXT_000830,Baby Aibatt,可愛的獨眼蝙蝠
+PROPMOVER_TXT_000830,Baby Aibatt,可愛獨眼蝙蝠
 PROPMOVER_TXT_000832,Baby Leyena,長大的血狼
 PROPMOVER_TXT_000834,Baby Luia,優秀的小火雞
 PROPMOVER_TXT_000836,Kitty,淘氣的多坎
@@ -436,13 +436,13 @@ PROPMOVER_TXT_000926,Captain Bearnerky,狂暴獨眼野熊
 PROPMOVER_TXT_000928,General Bearnerky,獨眼野熊王
 PROPMOVER_TXT_000930,Great Chef Muffrin,廚子麻普
 PROPMOVER_TXT_000932,Queen Popcrank,詭異小丑
-PROPMOVER_TXT_000934,Baby Polar Bear,可愛的北極熊
+PROPMOVER_TXT_000934,Baby Polar Bear,可愛北極熊
 PROPMOVER_TXT_000936,Polar Bear,北極熊
-PROPMOVER_TXT_000946,Mailbox,郵箱
+PROPMOVER_TXT_000946,Mailbox,信箱
 PROPMOVER_TXT_000950,Blue Meteonyker,湛藍流星領主
-PROPMOVER_TXT_000954,Baby Penguin,可愛的企鵝
-PROPMOVER_TXT_000956,Baby Iguana,可愛的鬣蜥
-PROPMOVER_TXT_000958,Baby Cobra,可愛的眼鏡蛇
+PROPMOVER_TXT_000954,Baby Penguin,可愛企鵝
+PROPMOVER_TXT_000956,Baby Iguana,可愛鬣蜥
+PROPMOVER_TXT_000958,Baby Cobra,可愛眼鏡蛇
 PROPMOVER_TXT_000960,Egg,寶貝蛋
 PROPMOVER_TXT_000962,White Tiger,孟加拉虎
 PROPMOVER_TXT_000966,Babari Lion,巴巴里獅
@@ -464,21 +464,21 @@ PROPMOVER_TXT_001016,Bahamut,巴哈姆特
 PROPMOVER_TXT_001018,Nightmare,獨角夢靨
 PROPMOVER_TXT_001020,Reinecke,九尾銀狐
 PROPMOVER_TXT_001022,Hippogryph,格弗昂
-PROPMOVER_TXT_001024,Cute Frog,可愛的青蛙
-PROPMOVER_TXT_001026,Cute Hamburger,可愛的漢堡
-PROPMOVER_TXT_001028,Baby Turtle,可愛的烏龜
-PROPMOVER_TXT_001034,Baby Chicken,可愛的小雞
-PROPMOVER_TXT_001036,Baby Cow,可愛的哞哞
-PROPMOVER_TXT_001038,Baby Beagle,可愛的獵犬
+PROPMOVER_TXT_001024,Cute Frog,可愛青蛙
+PROPMOVER_TXT_001026,Cute Hamburger,可愛漢堡
+PROPMOVER_TXT_001028,Baby Turtle,可愛烏龜
+PROPMOVER_TXT_001034,Baby Chicken,可愛小雞
+PROPMOVER_TXT_001036,Baby Cow,可愛哞哞
+PROPMOVER_TXT_001038,Baby Beagle,可愛獵犬
 PROPMOVER_TXT_001040,Baby Blue Dragon,蒼藍幼龍
 PROPMOVER_TXT_001042,Baby Hamster,貪吃的黃金鼠
-PROPMOVER_TXT_001044,Baby Horse,可愛的小馬
-PROPMOVER_TXT_001046,Baby Monkey,可愛的猴子
+PROPMOVER_TXT_001044,Baby Horse,可愛小馬
+PROPMOVER_TXT_001046,Baby Monkey,可愛猴子
 PROPMOVER_TXT_001048,Baby Pig,愛裝無辜的小豬
-PROPMOVER_TXT_001050,Baby Rabbit,可愛的兔兔
-PROPMOVER_TXT_001052,Cute Lamb,可愛的綿羊
+PROPMOVER_TXT_001050,Baby Rabbit,可愛兔兔
+PROPMOVER_TXT_001052,Cute Lamb,可愛綿羊
 PROPMOVER_TXT_001054,Baby Tiger,勇猛的老虎
-PROPMOVER_TXT_001076,Small Maid Cardpuppet,可愛的發條娃娃
+PROPMOVER_TXT_001076,Small Maid Cardpuppet,可愛發條娃娃
 PROPMOVER_TXT_001078,Small Mia,無辜的米兒
 PROPMOVER_TXT_001080,Baby Black Dragon,黑曜幼龍
 PROPMOVER_TXT_001196,Baby Yetti,小雪人
@@ -492,14 +492,14 @@ PROPMOVER_TXT_001318,English Bulldog,兇猛牛頭犬
 PROPMOVER_TXT_001320,Naughty Ghost,頑皮幽靈
 PROPMOVER_TXT_001322,Baby Fu Lion,石獅子
 PROPMOVER_TXT_001324,Smart Owl,伶俐的貓頭鷹
-PROPMOVER_TXT_001326,Patches,可愛的縫製娃娃
-PROPMOVER_TXT_001328,Cute Robot,可愛的羅伯特
+PROPMOVER_TXT_001326,Patches,可愛縫製娃娃
+PROPMOVER_TXT_001328,Cute Robot,可愛羅伯特
 PROPMOVER_TXT_001330,Baby Bang,可愛崩崩
 PROPMOVER_TXT_001332,Baby Panda,可愛熊貓
 PROPMOVER_TXT_001334,Red Armored Tigar,赤甲泰格虎
 PROPMOVER_TXT_001336,Blue Armored Tigar,蒼甲泰格虎
 PROPMOVER_TXT_001338,Yellow Armored Tigar,金甲泰格虎
-PROPMOVER_TXT_001446,Tommy Toucan,可愛的鸚鵡
+PROPMOVER_TXT_001446,Tommy Toucan,可愛鸚鵡
 PROPMOVER_TXT_001452,Johnny Four-Wheels,大搜取機
 PROPMOVER_TXT_001460,Tiny Tanuki,勇猛的卡頓
 PROPMOVER_TXT_001466,Inisis,伊尼斯
@@ -513,7 +513,7 @@ PROPMOVER_TXT_001560,Inspector Koko,笨笨無尾熊
 PROPMOVER_TXT_001564,Cheshire Cat,咧嘴貓
 PROPMOVER_TXT_001566,The White Rabbit,小白兔
 PROPMOVER_TXT_001568,Tiger Cub,可愛白虎
-PROPMOVER_TXT_001586,Bone Golem,史卡爾頓撿寵
+PROPMOVER_TXT_001586,Bone Golem,巫毒傀儡娃
 PROPMOVER_TXT_001588,Mocomochi,摩可摩奇
 PROPMOVER_TXT_001590,Soul Dancer,開心的舞者
 PROPMOVER_TXT_001592,Clockworks Butler,發條管家
@@ -522,29 +522,29 @@ PROPMOVER_TXT_001630,[Quest Office] Miorang,[委託所] 米奧朗
 PROPMOVER_TXT_001654,[Crackshooter Master] Meiarun,[爆裂射手教官] 梅伊亞倫
 PROPMOVER_TXT_001656,[Arcanist Master] Howrang,[魔導士教官] 夏巫郎
 PROPMOVER_TXT_001680,Cheirang,琪朗
-PROPMOVER_TXT_001714,[Rock Scissor Paper NPC] Demian,"[剪刀,石頭,布 NPC] 頑童丹丹"
+PROPMOVER_TXT_001714,[Rock Scissor Paper NPC] Demian,[剪刀，石頭，布 NPC] 頑童丹丹
 PROPMOVER_TXT_001716,Chameleon,變色龍
 PROPMOVER_TXT_001804,Braaaaains,小僵屍
 PROPMOVER_TXT_001814,Male Zombie,男屍屍
 PROPMOVER_TXT_001816,Female Zombie ,女屍屍
-PROPMOVER_TXT_001826,Big Red,可愛紅紅胖企鵝
+PROPMOVER_TXT_001826,Big Red,紅胖胖
 PROPMOVER_TXT_002000,Buur,刺果獸
 PROPMOVER_TXT_002002,Saphyryan,冰原狼
 PROPMOVER_TXT_002004,Gray Earl,格雷伯爵
-PROPMOVER_TXT_002006,Jack Frost,可愛的雪人
+PROPMOVER_TXT_002006,Jack Frost,可愛雪人
 PROPMOVER_TXT_002008,Mr. Grinchie,聖誕精靈
-PROPMOVER_TXT_002010,Rudolph,可愛的魯道夫
+PROPMOVER_TXT_002010,Rudolph,可愛魯道夫
 PROPMOVER_TXT_002020,[Development Supervisor] Kim,守護金總監
 PROPMOVER_TXT_002026,Kuma,可愛熊寶
 PROPMOVER_TXT_002034,Usagi,可愛小兔精靈
 PROPMOVER_TXT_002036,Cooperative Donation NPC,合作捐贈 NPC
-PROPMOVER_TXT_002038,X900 EvilTron,淘氣鬼機器惡魔
-PROPMOVER_TXT_002040,Mister Grizz,可愛的泰迪熊
+PROPMOVER_TXT_002038,X900 EvilTron,邪惡機械兔
+PROPMOVER_TXT_002040,Mister Grizz,可愛泰迪熊
 PROPMOVER_TXT_002162,Lil' Potato,小薯仔
-PROPMOVER_TXT_002166,Friendly Baby Kargo,可愛的卡勒古先生
+PROPMOVER_TXT_002166,Friendly Baby Kargo,可愛卡勒古先生
 PROPMOVER_TXT_002170,Charming Babushka Doll,瑪特羅斯奇
 PROPMOVER_TXT_002232,Cute Baby Cat,可愛小貓
-PROPMOVER_TXT_002234,Little Muran,嬌小可愛的小貓咪
+PROPMOVER_TXT_002234,Little Muran,嬌小可愛小貓咪
 PROPMOVER_TXT_002236,Baby Buur,刺果獸寶寶
 PROPMOVER_TXT_002238,Baby Ripper,鐮刀死神寶寶
 PROPMOVER_TXT_002240,Baby Gray Earl,小灰伯爵
@@ -693,9 +693,9 @@ PROPMOVER_TXT_100125,Kumah,庫瑪
 PROPMOVER_TXT_100126,Haom,豪姆
 PROPMOVER_TXT_100127,Scorched Meteonyker,燒焦的地炎飛龍
 PROPMOVER_TXT_100128,Red Meteonyker,炙焰飛龍
-PROPMOVER_TXT_100129,Baby Zendros,可愛的曾德羅斯
-PROPMOVER_TXT_100130,Baby Dumb Bull,可愛的哞哞
-PROPMOVER_TXT_100131,Baby Bearnerky,可愛的獨眼野熊
+PROPMOVER_TXT_100129,Baby Zendros,可愛曾德羅斯
+PROPMOVER_TXT_100130,Baby Dumb Bull,可愛哞哞
+PROPMOVER_TXT_100131,Baby Bearnerky,可愛獨眼野熊
 PROPMOVER_TXT_100132,Yetti,喵喵
 PROPMOVER_TXT_100133,Mutant Yetti,變異喵喵
 PROPMOVER_TXT_100134,Dark Yetti,暗黑喵喵
@@ -726,11 +726,11 @@ PROPMOVER_TXT_100158,Red Alien Octopus,赤焰外星章魚
 PROPMOVER_TXT_100159,White Alien Octopus,月白外星章魚
 PROPMOVER_TXT_100160,Green Alien Octopus,翠綠外星章魚
 PROPMOVER_TXT_100161,Black Alien Octopus,黑墨外星章魚
-PROPMOVER_TXT_100162,Baby Peakyturtle,可愛的尖刺犰狳
-PROPMOVER_TXT_100163,Baby Rock Muscle,可愛的牛唄唄
-PROPMOVER_TXT_100164,Baby Giggle Box,可愛的整人箱
-PROPMOVER_TXT_100165,Baby Totemia,可愛的疊疊樂
-PROPMOVER_TXT_100166,Baby Fafnir,可愛的法夫尼爾
+PROPMOVER_TXT_100162,Baby Peakyturtle,可愛尖刺犰狳
+PROPMOVER_TXT_100163,Baby Rock Muscle,可愛牛唄唄
+PROPMOVER_TXT_100164,Baby Giggle Box,可愛整人箱
+PROPMOVER_TXT_100165,Baby Totemia,可愛疊疊樂
+PROPMOVER_TXT_100166,Baby Fafnir,可愛法夫尼爾
 PROPMOVER_TXT_100167,Baby Popcrank,詭異小丑寶寶
 PROPMOVER_TXT_100168,Rookie Cloudberry Carrier,菜鳥雲朵莓運送者
 PROPMOVER_TXT_100169,Cloudberry Carrier,雲朵莓運送者

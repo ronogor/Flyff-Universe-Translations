@@ -9,9 +9,9 @@ PROPCTRL_TXT_000012,Meteonyker Prison,地炎飛龍監獄
 PROPCTRL_TXT_000014,Pink Roach Egg,粉紅蟑螂蛋
 PROPCTRL_TXT_000016,Blue Roach Egg,藍蟑螂蛋
 PROPCTRL_TXT_000028,Warp Machine,傳送器
-PROPCTRL_TXT_000030,Warp Board 1,傳送滑板
-PROPCTRL_TXT_000032,Warp Board 2,傳送滑板
-PROPCTRL_TXT_000034,Warp Board 3,傳送滑板
+PROPCTRL_TXT_000030,Warp Board 1,傳送滑板 1
+PROPCTRL_TXT_000032,Warp Board 2,傳送滑板 2
+PROPCTRL_TXT_000034,Warp Board 3,傳送滑板 3
 PROPCTRL_TXT_000036,Exp Box,經驗箱
 PROPCTRL_TXT_000037,Harvest Plant 01,收成植物 01
 PROPCTRL_TXT_000038,Harvest Plant 02,收成植物 02
@@ -44,7 +44,7 @@ PROPCTRL_TXT_000064,Dungeon Warp 06,副本傳送 06
 PROPCTRL_TXT_000065,Ship Wheel,船輪
 PROPCTRL_TXT_000066,Cushion Chair,靠墊椅
 PROPCTRL_TXT_000067,Spinning Globe,旋轉地球儀
-PROPCTRL_TXT_000068,Compass,羅盤 
+PROPCTRL_TXT_000068,Compass,羅盤
 PROPCTRL_TXT_000069,Chandelier,吊燈
 PROPCTRL_TXT_000070,Command Desk,指揮台
 PROPCTRL_TXT_000071,Command Platform,指揮平台
@@ -92,7 +92,7 @@ PROPCTRL_TXT_000112,Wooden Blue Closet,木製藍色衣櫃
 PROPCTRL_TXT_000113,Wooden Blue Bench,木製藍色長椅
 PROPCTRL_TXT_000114,Wooden Blue Cabinet,木製藍色櫃子
 PROPCTRL_TXT_000115,Wooden Blue Bed,木製藍色床
-PROPCTRL_TXT_000116,Wooden Red Chair,木製紅色椅子 
+PROPCTRL_TXT_000116,Wooden Red Chair,木製紅色椅子
 PROPCTRL_TXT_000117,Wooden Red Table,木製紅色桌子
 PROPCTRL_TXT_000118,Wooden Red Dressing Table,木製紅色化妝桌
 PROPCTRL_TXT_000119,Wooden Red Closet,木製紅色衣櫃
@@ -156,7 +156,7 @@ PROPCTRL_TXT_000176,Flaris Anvil,布拉里斯砧
 PROPCTRL_TXT_000177,Flaris Bench,布拉里斯長椅
 PROPCTRL_TXT_000178,Flaris Chariot,布拉里斯大車
 PROPCTRL_TXT_000179,Flaris Fence 1,布拉里斯柵欄 1
-PROPCTRL_TXT_000180,Flaris Floor Lamp,布拉里斯落地燈 
+PROPCTRL_TXT_000180,Flaris Floor Lamp,布拉里斯落地燈
 PROPCTRL_TXT_000181,Flaris Wall Lamp,布拉里斯壁燈
 PROPCTRL_TXT_000182,Flaris Pot 1,布拉里斯鍋 1
 PROPCTRL_TXT_000183,Flaris Small Sign,布拉里斯小標誌
@@ -210,7 +210,7 @@ PROPCTRL_TXT_000230,Coral Island Shellfish 1,珊瑚島貝類 1
 PROPCTRL_TXT_000231,Coral Island Coral 1,珊瑚島珊瑚 1
 PROPCTRL_TXT_000232,Coral Island Starfish 1,珊瑚島海星 1
 PROPCTRL_TXT_000233,Coral Island Table 1,珊瑚島桌 1
-PROPCTRL_TXT_000234,Coral Island Beach Umbrella ,珊瑚島沙灘傘 
+PROPCTRL_TXT_000234,Coral Island Beach Umbrella ,珊瑚島沙灘傘
 PROPCTRL_TXT_000235,Basic Wall,基本牆
 PROPCTRL_TXT_000236,Flaris Wall,布拉里斯牆
 PROPCTRL_TXT_000237,Cove Wall,海灣牆
@@ -231,7 +231,7 @@ PROPCTRL_TXT_000251,Forest Wall,森林牆
 PROPCTRL_TXT_000252,Metallic Wall,金屬牆
 PROPCTRL_TXT_000253,Construction Wall,建築牆
 PROPCTRL_TXT_000254,Saint Morning Wall,聖音特牆
-PROPCTRL_TXT_000255,Basic Floor,基礎地板 
+PROPCTRL_TXT_000255,Basic Floor,基礎地板
 PROPCTRL_TXT_000256,White Floor,白色地板
 PROPCTRL_TXT_000257,Bordered Cove Floor,鑲邊凹地板
 PROPCTRL_TXT_000258,Plain Cove Floor,素凹地板

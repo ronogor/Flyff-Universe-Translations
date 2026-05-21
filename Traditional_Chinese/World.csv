@@ -45,7 +45,7 @@ WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the 
 WDKEBARAS_WLD_000000,Lodelight,生命光柱
 WDKEBARAS_WLD_000001,This is a safe place.,這裡是安全地區
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,卡巴拉斯
-WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",歡迎來到卡巴拉斯城鎮!\n這個地方很久以前是關押罪犯的監獄……
+WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",歡迎來到卡巴拉斯城鎮！\n這個地方很久以前是關押罪犯的監獄……
 WDMADRIGAL_WLD_000000,Mysterious Castle,神秘的城堡
 WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,地圖上沒有任何標示，沒人知道如何進入裡面……
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,勒倫山脈中部的隱藏處
@@ -118,7 +118,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000026,The High-Dwarpets have created Billeting 
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000027,Northern River of Weeping,哭泣之河北部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028,Haunt of Nyangnyang,喵娘的棲息地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029,Haunt of Nyangnyang.,這裡是貓種族「喵娘」的棲息地
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to have to jump across a gap.,前方的橋已經斷了!\n必須用跳躍來跳過去才行。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to have to jump across a gap.,前方的橋已經斷了！\n必須用跳躍來跳過去才行。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,生命光柱
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,這裡是安全地區
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,莫德琳鎮
@@ -256,5 +256,5 @@ WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,你無法自行
 WDREALM_WLD_000000,This is a safe place.,這裡是安全地區
 WDREALM_WLD_000001,This is a safe place.,這裡是安全地區
 WDREALM_WLD_000002,This is a safe place.,這裡是安全地區
-WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,你進入了戰鬥區域!!!
+WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,你進入了戰鬥區域！！!
 WDHEAVEN06_1_WLD_000003,Secret Room,秘密房間
