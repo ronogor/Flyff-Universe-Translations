@@ -23,7 +23,7 @@ MMI_22,Bounty List,指名手配リスト
 MMI_24,View equipment,装備を見る
 MMI_25,Mailbox,ファン･ポスト
 MMI_26,Apply,適用
-MMI_27,Status,申請状況
+MMI_27,Status,ステータス
 MMI_28,Cancel,キャンセル
 MMI_29,Enter,参加
 MMI_30,Ranking,ランキング
@@ -77,7 +77,7 @@ MMI_1010,Freeze,フリーズ中
 MMI_1011,Unfreeze,フリーズ解除
 MMI_1012,Shadow Mute,シャドウミュート
 MMI_1013,Pet Candy Crafting,ペットキャンディークラフト
-MMI_1014,Exchange Dice,ダイス交換
+MMI_1014,Exchange Dice,ダイスの交換
 MMI_1015,Pet Sacrificing,ペットサクリファイス
 MMI_1016,Red Chip Shop,レッドチップショップ
 MMI_1017,Cosmetic Wardrobe,コスメティックワードローブ
@@ -113,7 +113,7 @@ MMI_1048,Spectate FWC PVP Contest,観戦FWC PVPコンテスト
 MMI_1049,Rock Paper Scissors,じゃんけん
 MMI_1050,W-Token Shop,Wトークンショップ
 MMI_1051,Costume Box Upgrade,コスチュームボックスのアップグレード
-MMI_1054,Exchange Rings,交換指輪
+MMI_1054,Exchange Rings,指輪の交換
 MMI_1055,Dismantle Item,アイテムの解体
 MMI_1056,Purchase Guild Ship,このギルドハウスを購入したい
 MMI_1057,Enter Guild Ship,ギルドハウスに入る
@@ -122,7 +122,7 @@ MMI_1059,Select House Template,ハウステンプレートを選択
 MMI_1060,Visit Friend's House,友達の家を訪ねる
 MMI_1061,Edit,編集
 MMI_1062,Remove,削除
-MMI_1063,Exchange Earrings,交換イヤリング
+MMI_1063,Exchange Earrings,イヤリングの交換
 MMI_1064,Exchange Necklaces,ネックレスの交換
 MMI_1065,Rainbow Race,レインボーレース
 MMI_1066,Create Ultimate Weapon,アルティマウェポン作成
@@ -155,7 +155,7 @@ MMI_1094,Madrigal Tournament Ranking,Madrigal Tournament Ranking
 MMI_1095,Madrigal Tournament Reward,Madrigal Tournament Reward
 MMI_1096,Madrigal Tournament Bidding,Madrigal Tournament Bidding
 MMI_1097,Remove Ultimate Jewel,Remove Ultimate Jewel
-MMI_1098,Customize,Customize
+MMI_1098,Customize,カスタマイズ
 MMI_1099,Enter Couple House,Enter Couple House
 MMI_1100,Select Couple House Template,Select Couple House Template
 MMI_1101,Wandering Shop,Wandering Shop
