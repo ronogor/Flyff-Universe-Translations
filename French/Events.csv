@@ -34,7 +34,7 @@ UI_EVENT_LUCKYCAPSULE_DESC,"Earn coins by defeating monsters or completing quest
 UI_EVENT_DROPBOOST,Drop Boost!,Chance d'avoir des objets augmentée !
 UI_EVENT_SUITPIERCING,Suit Piercing!,Piercing d'armure !
 UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Festival de Musique de Flyff !
-UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,Collectez des Notes de musique et des Parchemins de partition Musicale en chassant des monstres puis échangez les au PNJ Bach.
+UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,Collectez des Notes de musique et des Parchemins de partition musicale en chassant des monstres puis échangez-les au PNJ Bach.
 UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,Expérience +30% !
 UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,Expérience de Groupe +30% !
 UI_EVENT_SECRETBOOST,Secret Boost!,Boost Secret !
