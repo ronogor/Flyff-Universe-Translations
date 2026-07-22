@@ -789,7 +789,7 @@ NPC_000862,For Darken!,Ради Даркона!
 NPC_000863,"Hmm It seems that you are not the party leader, or you have less than 3 party members. Also, it may not have been more than 2 days since you left your old guild.,"Хм! Похоже, ты не лидер группы или у вас менее 3 игроков. Ну, или ещё не прошло 2 дней с момента ухода из старой гильдии."
 NPC_000864,"Are you ready to create your new guild? If you are not, please go I am very busy right now.,"Готов создать новую гильдию? Если нет, уходи, у меня мало времени."
 NPC_CREATEGUILD,Create Guild,Рождение гильдии
-NPC_KEEPGOING,Keep Going,Keep Going
+NPC_KEEPGOING,Keep Going,Продолжить
 NPC_000868,Leave my sight if you lack the necessary skills to succeed!,Убирайся из виду, если у тебя нет необходимых навыков для успеха!
 NPC_000869,"Speak with the Mayor of Saint City and complete the tasks he gives you. Then, collect the Rubies of Joy, Anger, and Sorrow. \n#bRequirement:\n - Must be the leader of a party and all party members must be between level 70 and 75.,"Погляди с мэром Святого Града и выполни задания, которые он задаёт. После этого собери Рубины Радости, Гнева и Печали. \n#bТребования:\n - Должен быть лидером группы, а все участники быть между 70-75 уровнями."
 NPC_000870,"You can't do this by yourself, you fool! Come back when you find some friends,"Ты не сможешь сделать это один, идиот! Вернись, когда найдёшь друзей!"
@@ -1149,202 +1149,204 @@ NPC_150005,",Hey, look at those clouds. Doesn’t that one look like a cat’s f
 NPC_150006,",Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?,"Привет, я Бран! Иногда слушать важнее, чем охранять. Разве нет?
 NPC_150007,",This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?,"Аэропорт кажется безопасным? А видел когда-нибудь огонь падающим с неба, когда думал, что тебе безопасно?
 NPC_150008,",I'm Karr. If you drop your guard during wartime, that moment might be your last.,"Я Карр. Если расслабишься во время войны, этот момент станет последним.
-NPC_150009,…Do you need something?,…Do you need something?
-NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,My name’s Zerke. Keep your questions short. I’ll help if I can.
+NPC_150009,…Do you need something?,…Тебе нужно что-то?
+NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,Меня зовут Церке. Коротко и по делу. Помогу, если смогу.
 NPC_150011,",It feels good to protect something, doesn’t it?","Чувствуешь себя защитником? Вот это другое дело.
-NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,I'm Elin. My job is to make sure everyone coming through here stays safe.
-NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,Protecting a village isn’t simple. All those lives rest on us.
-NPC_150014,I am Gard. I’m one of the guardians who protect this place.,I am Gard. I’m one of the guardians who protect this place.
+NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,Я Элин. Моя задача — обеспечить безопасность всем, кто проходит через здесь.
+NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,Защитить деревню — дело нелёгкое. На нас лежат жизни всех ее жителей.
+NPC_150014,I am Gard. I’m one of the guardians who protect this place.,Я Гард. Один из стражей, охраняющих это место.
 NPC_150015,",Hello! Beautiful morning, isn’t it? I’m Gard.,"Привет! Красивое утро, не правда ли? Я — Гард.
 NPC_150016,"Even cats need a break sometimes. Still, patrol never stops.","Даже кошкам нужен отдых. Но патруль не остановить.
 NPC_150017,",I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe.","Я Линт. Если шутки надоели — потерпи. Буду держать деревню в безопасности.
-NPC_150018,Why am I a guard? Because it’s cool. Simple as that.,Why am I a guard? Because it’s cool. Simple as that.
-NPC_150019,War? I’m not afraid of it. I’ll fight until my last breath.,War? I’m not afraid of it. I’ll fight until my last breath.
-NPC_150020,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.
-NPC_150021,Let’s make today a good one. Victory awaits.,Let’s make today a good one. Victory awaits.
-NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,Why don’t those dogs come near us? Easy. They’re scared of our claws.
-NPC_150023,Call me Kras. I protect this village.,Call me Kras. I protect this village.
-NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,I used to be an adventurer like you… until I took an arrow to the knee.
-NPC_150025,A new face. I hope we stay on friendly terms.,A new face. I hope we stay on friendly terms.
+NPC_150018,Why am I a guard? Because it’s cool. Simple as that.,Почему я страж? Потому что это круто. Всё.
+NPC_150019,War? I’m not afraid of it. I’ll fight until my last breath.,Война? Не боюсь. Буду биться до последнего вздоха.
+NPC_150020,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.,Я Серкан. Не нужен повод для боя. Просто наслаждаюсь противостоянием сильным врагам.
+NPC_150021,Let’s make today a good one. Victory awaits.,Сделаем этот день хорошим. Победа ждёт.
+NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,Почему псы не подходят? Они боятся наших когтей.
+NPC_150023,Call me Kras. I protect this village.,Зови меня Крас. Я охраняю эту деревню.
+NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,Раньше я был приключенцем, как ты… пока стрела не угодила мне в колено.
+NPC_150025,A new face. I hope we stay on friendly terms.,Новое лицо. Надеюсь, между нами будут добрые отношения.
 NPC_150026,",I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.,"Я Маэрон. Сражался долго, и буду сражаться до победы.
-NPC_150027,You’re not ready.,You’re not ready.
-NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Great day for patrol. Is there even such a thing as bad weather? Not for me.
-NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.
+NPC_150027,You’re not ready.,Ты ещё не готов.
+NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Отличный день для патруля. Может быть такое, плохая погода? Не для меня.
+NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,Меня зовут Керрион. Я на патруле — дай знать, если заметишь что-то странное.
 NPC_150030,",Go, adventurer… go.,"Иди, странник...
 NPC_150031,",It’s wonderful seeing everyone living in peace, isn’t it?,"Зреть, как все живут в мире — прекрасное чувство.
-NPC_150032,I’m Raon! No one loves this village more than me.,I’m Raon! No one loves this village more than me.
-NPC_150033,You can’t pass.,You can’t pass.
+NPC_150032,I’m Raon! No one loves this village more than me.,Я Раон! Никто не любит деревню больше меня.
+NPC_150033,You can’t pass.,Ты не пройдёшь.
 NPC_150034,",Stay calm. If the soldiers panic, who will the villagers rely on?,"Не паникуй. Если солдаты растеряются, за кем зацепятся жители?
 NPC_150035,",I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.,"Я Дреон, правая рука капитана Барона. Всё, что я делаю — ради деревни.
-NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?
+NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,Мой сослуживец? У него связи. Говорит, дружит с одним Вальдо.
+Ты знаешь этого типа?
 NPC_150037,",You’ve made it this far… but from here on, things might get dangerous.","Ты дошёл далеко... но впереди опасность.
 NPC_150038,",I’m Merk, head of scouting. Seen any Lycan activity?,"Я Мерк, глава разведки. Видел активность ликанов?
-NPC_150039,Quiet. Scouting only works if we stay hidden.,Quiet. Scouting only works if we stay hidden.
+NPC_150039,Quiet. Scouting only works if we stay hidden.,Тихо. Разведка только работает, если мы остаёмся в тени.
 NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.","Защищать деревню — честь, но непростая. Особенно когда звери за стеной скалят клыки.
 NPC_150041,",I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.,"Я Барон, капитан стражи Эйлуна. Щит и меч деревни. Ни одной угрозе не пройти мимо. Под моим руководством каждый на посту.
-NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,The Lycans are growing bolder. Keep your weapon ready.
-NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.
+NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,Ликаны становятся всё смелее. Держи оружие наготове.
+NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,У этой деревни богатейшая история… Но тебе не нужно знать всё. Иногда знания становятся обузой.
 NPC_150044,",I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?,"Я Гауранг, Ярл. Храню деревню десятилетия. Кости болят, но загробный мир не забирает. Странно, правда?
-NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,Welcome to Eillun Village. I hope you enjoy your stay.
-NPC_150046,A new visitor… Let’s hope that’s a good sign.,A new visitor… Let’s hope that’s a good sign.
+NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,Добро пожаловать в деревню Эйлун. Надеюсь, тебе понравится здесь.
+NPC_150046,A new visitor… Let’s hope that’s a good sign.,Новый гость… Надеюсь, это хороший знак.
 NPC_150047,",I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.,"Я Эयर, старейшина. Долго держал деревню на своих плечах. Стаёт тяжелее. Может, ты привнёс изменения.
-NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.
-NPC_150049,Do you always trust what you see? Think it through.,Do you always trust what you see? Think it through.
+NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,вздыхает Ярл снова свалил на меня свою работу...
+Я слишком стар для всего этого. Даже спокойно выйти на пенсию не могу.
+NPC_150049,Do you always trust what you see? Think it through.,Всегда ли ты доверяешь тому, что видишь? Подумай хорошенько.
 NPC_150050,",I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?,"Я старейшина Трейтус, отвечаю за припасы. Хм... Как найти норму на сегодня?
-NPC_150051,We’re not like the Khajiit… not like them at all.,We’re not like the Khajiit… not like them at all.
+NPC_150051,We’re not like the Khajiit… not like them at all.,Мы не хаджиты… Мы совсем им не похожи.
 NPC_150052,",Sometimes protecting the village requires sacrifice. It’s harsh, but true.,"Иногда для защиты деревни нужны жертвы. Жёстко, но правда.
 NPC_150053,",I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.,"Я Мелак, отвечаю за безопасность с Бароном. С каждым днём хуже. Пожалуйста, не добавляй проблем. Я буду следить за тобой.
-NPC_150054,It’s dangerous to go alone.,It’s dangerous to go alone.
-NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,How long are we going to sit around? We need to strike back and show them who we are.
-NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.
-NPC_150057,We have a great communicator here… want to guess who?,We have a great communicator here… want to guess who?
+NPC_150054,It’s dangerous to go alone.,Одному ходить опасно.
+NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,Как долго мы будем сидеть сложа руки? Нужно ударить в ответ и показать им, кто мы.
+NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,Я Силар. Есть только один способ защитить деревню: заставить врагов бояться нас больше, чем мы их.
+NPC_150057,We have a great communicator here… want to guess who?,У нас тут отличный переговорщик… хочешь угадать, кто?
 NPC_150058,",Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.,"Долголетие — это благословение? Если задержишься там, откуда уходил, земля словно проваливается.
 NPC_150059,",I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.,"Я Эброн, старый дед с большим свободным временем. Живи долго — заметишь то, что другие не видят.
 NPC_150060,",Time is a strange thing, isn’t it?,"Время — странная штука, правда?
-NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,Stock up on supplies before you leave. Better to have too much than too little.
+NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,Запасись товарами перед отъездом. Лучше иметь слишком много, чем слишком мало.
 NPC_150062,",I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.,"Я Лиана, хозяйка универмага. Путник или житель — накормлю всем необходимым.
 NPC_150063,",Hand over the Penya peacefully, and no one gets hurt.","Отдай пеню добровольно — никто не пострадает.
-NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,Look at this gemstone! It’s not just jewelry—it’s art.
+NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,Посмотри на этот камень! Это не просто украшение — это искусство.
 NPC_150065,",I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.","Я Терон. В драгоценных камнях я вижу дальше всех. Найду идеальный для тебя.
-NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.
-NPC_150067,Good armor is like having a second life.,Good armor is like having a second life.
-NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.
-NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.
-NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,A good weapon never betrays its wielder. Find one that suits you.
+NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,Камни — это искусство! Ты ценишь искусство? Тренируй глаз — твои навыки улучшатся вместе с этим.
+NPC_150067,Good armor is like having a second life.,Хорошая броня — как вторая жизнь.
+NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,Я Харет. Выбор брони — не вопрос вкуса, а вопрос выживания. Другое лучше не найдёшь.
+NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,Такой брони не найдёшь больше ни у кого. Бери сегодня — дам скидку.
+NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,Хорошее оружие никогда не предаст своего владельца. Найди то, что подходит тебе.
 NPC_150071",Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.,"Домир. Мечи, топоры, луки — что нужно, то выковаю.
-NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.
+NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,Точно доволен этим оружием? Лучше есть. Позволь показать.
 NPC_150073,",Attacking is important, but if you can’t defend yourself, you won’t last a battle.,"Атаковать — важно. Но если не умеешь защищаться, в бою долго не протянешь.
 NPC_150074,",I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.,"Я Торан, лучший щитодел village. Нужен щит — обращайся.
 NPC_150075,",That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.,"Этот щит долго не протянет. К счастью, у меня есть попрочнее.
-NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?
+NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,Свежеприготовленное! У меня даже есть горячий суп. Хочешь миску?
 NPC_150077,",I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.,"Я Кейрен, лучший повар. Нет, мои рецепты нигде не уйдут.
-NPC_150078,Fresh goods from the forest! Stock up before you travel.,Fresh goods from the forest! Stock up before you travel.
-NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,A staff or wand is just a tool. The real magic depends on the person holding it.
+NPC_150078,Fresh goods from the forest! Stock up before you travel.,Свежие товары из леса! Запасайся перед путешествием.
+NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,Посох или жезл — это просто инструмент. Настоящая магия зависит от того, кто им владеет.
 NPC_150080,",I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.,"Я Небра, продаю магические инструменты. Если умеешь ими владелить — получишь мощь.
 NPC_150081,",Interested in magic? I’ve got wands, staves, robes—take a look.,"Интересуешься магией? У меня жезлы, посохи, мантии — смотри.
-NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,Color carries emotion. The flowers around here create shades no dye can match.
-NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.
-NPC_150084,Take a look.,Take a look.
-NPC_150085,Wounds heal with time… but the right treatment helps a lot.,Wounds heal with time… but the right treatment helps a lot.
+NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,Цвет несёт эмоции. Цветы вокруг здесь создают оттенки, которые не повторит ни один краситель.
+NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,Я Сена. Красю ткани цветами и травами. Твоя одежда превзойдёт всё.
+NPC_150084,Take a look.,Посмотри.
+NPC_150085,Wounds heal with time… but the right treatment helps a lot.,Раны заживают со временем… но правильное лечение очень помогает.
 NPC_150086,",I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.,"Я Роан, лечу раненых. Раньше было спокойно, но последнее время — истерически.
 NPC_150087,",Time is money, friend.,"Время — деньги, друг.
 NPC_150088,"Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit.","Знание — сильнейшее оружие. Звери кусаются, но мы бьём знаниями.
-NPC_150089,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.
+NPC_150089,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.,Я Белия. Обучаю юных муриан истории и мудрости. Обучение не заканчивается.
 NPC_150090,",If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly.,"Если хочешь делиться знаниями — изучи нашу систему мер. Закон ЁП отличный, честно.
-NPC_150091,The stars reveal many things. Tonight’s constellations hint at change.,The stars reveal many things. Tonight’s constellations hint at change.
+NPC_150091,The stars reveal many things. Tonight’s constellations hint at change.,Звёзды многое скажут. Звёзды tonight предсказывают перемены.
 NPC_150092,",I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say.,"Я Керин. Читаю звёзды, чтобы предсказать будущее. Твоя судьба... Не应该说.
-NPC_150093,But I do believe you’re strong enough to face whatever comes.,But I do believe you’re strong enough to face whatever comes.
-NPC_150094,Hunting isn’t just catching prey—it’s understanding nature.,Hunting isn’t just catching prey—it’s understanding nature.
+NPC_150093,But I do believe you’re strong enough to face whatever comes.,Но я верю, ты достаточно силён, чтобы противостоять всему.
+NPC_150094,Hunting isn’t just catching prey—it’s understanding nature.,Охота — это не просто поимка добычи. Это понимание природы.
 NPC_150095,",I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job.,"Я Артин, охотник. Приношу fresh мясо. Те собаки мешают, но работа стоит.
-NPC_150096,Wanna communicate with mother Nature? Follow me!,Wanna communicate with mother Nature? Follow me!
-NPC_150097,Trees are alive. I just help shape their lives into new forms.,Trees are alive. I just help shape their lives into new forms.
-NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.
+NPC_150096,Wanna communicate with mother Nature? Follow me!,Хочешь пообщаться с матушкой природой? Иди со мной!
+NPC_150097,Trees are alive. I just help shape their lives into new forms.,Деревья живые. Я просто помогаю сформировать их жизнь в новые формы.
+NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,Я Пайл. Вырезаю упавшие ветки великого деревенского дерева. Воспоминания деревьев живут в моих работах.
 NPC_150099,",To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.,"Чтобы говорить с деревьями, используй настоящее имя и вложи душу. Я Пейл. Я — Пейл.
-NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,Dreams send messages from within. Understanding them can reveal the truth.
-NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?
-NPC_150102,Let me show you… a world of dreams and imagination.,Let me show you… a world of dreams and imagination.
-NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,The stars hold the stories of our ancestors. Their wisdom still guides us.
+NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,Сны посылают сообщения изнутри. Их понимание может раскрыть истину.
+NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,Я Луми. Слушаю сны людей и помогаю найти их смысл. Были странные сны?
+NPC_150102,Let me show you… a world of dreams and imagination.,Дай показать тебе… мир снов и воображения.
+NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,Звёзды хранят истории наших предков. Их мудрость всё ещё руководит нами.
 NPC_150104,",I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.,"Я Ивлин. Изучаю созвездия. Если разберусь достаточно, смогу предсказать, когда атакует тот зверь.
-NPC_150105,May the ancestors watch over you.,May the ancestors watch over you.
-NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.
+NPC_150105,May the ancestors watch over you.,Пусть предки хранят тебя.
+NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,Аромат может нести воспоминания. Одна капля моего парфюма может оживить давно забытые воспоминания.
 NPC_150107,",I’m Selin, a maker of perfumes. I wonder which scent suits you best.,"Я Селин, парфюмер. Интересно, какой аромат тебе подойдёт.
-NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,The same fragrance smells different on everyone. That’s the magic of it.
-NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,Hey! Don’t tell the adults you saw me here. Seriously—don’t.
+NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,Один и тот же аромат пахнет по-разному на каждом. В этом суть.
+NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,Эй! Не рассказывай взрослым, что видел меня. Серьёзно — не смей.
 NPC_150110,",I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself.","Я Кайла. Уйти домой? Не может быть. Волки или не волки — я справлюсь.
-NPC_150111,Grown-ups love saying “no.” It’s the one word I can’t stand.,Grown-ups love saying “no.” It’s the one word I can’t stand.
-NPC_150112,Every event carries a lesson. A good story makes it easier to hear.,Every event carries a lesson. A good story makes it easier to hear.
-NPC_150113,I’m Livia. I collect and share our people’s stories. Want to share yours?,I’m Livia. I collect and share our people’s stories. Want to share yours?
-NPC_150114,Old legends always hide clues—ways to survive today.,Old legends always hide clues—ways to survive today.
+NPC_150111,Grown-ups love saying “no.” It’s the one word I can’t stand.,Взрослые обожают говорить «нет». Это единственное невыносимое для меня слово.
+NPC_150112,Every event carries a lesson. A good story makes it easier to hear.,Каждое событие несёт урок. Хорошая история помогает его услышать.
+NPC_150113,I’m Livia. I collect and share our people’s stories. Want to share yours?,Я Ливия. Собираю и передаю истории нашего народа. Расскажешь свою?
+NPC_150114,Old legends always hide clues—ways to survive today.,Старые легенды всегда хранят подсказки—способы выжить сегодня.
 NPC_150115,",One day… I’ll earn their respect, no matter what it takes.,"Однажды... Я заслужу уважение, невзирая ни на что.
 NPC_150116,",I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more.,"Я Тайла. Секрет, но на самом деле я сын ярла... Нет, я не должна говорить.
 NPC_150117,",If I say it out loud, I feel like everything might fall apart. So it stays a secret.,"Если скажу вслух, всё рухнет. Поэтому остаётся секретом.
-NPC_150118,What are you doing here? Most people don’t even know this place exists.,What are you doing here? Most people don’t even know this place exists.
-NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.
-NPC_150120,Turn back. You’re not qualified.,Turn back. You’re not qualified.
+NPC_150118,What are you doing here? Most people don’t even know this place exists.,Что ты делаешь тут? Большинство даже не знает, что это место существует.
+NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,Ты не готов узнать правду. Но если станешь сильнее… может, всё изменится.
+NPC_150120,Turn back. You’re not qualified.,Обратишься. Ты не готов.
 NPC_150121,",Where did we go so wrong!? It’s good they aren’t attacking, but still…,"Где мы так ошиблись!? Хорошо, что не атакуют, но всё ещё...
 NPC_150122,",I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.,"Я Бек, из Святого Города. Вступил в Экспедицию Нового Мира и остался здесь. Опоздал на корабль, увы.
-NPC_150123,People—! A person is here! Help!,People—! A person is here! Help!
-NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,Keeping watch here isn’t easy. You never know what might creep out of the darkness.
-NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.
-NPC_150126,Feeling brave today? Just remember—I warned you.,Feeling brave today? Just remember—I warned you.
+NPC_150123,People—! A person is here! Help!,Люди—! Человек тут! Помогите!
+NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,Охрана тут непростая. Никогда не знаешь, что выползет из тьмы.
+NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,Я? Я хранитель Приюта Анку. Кто-то должен следить, чтобы кошмары оставались внутри.
+NPC_150126,Feeling brave today? Just remember—I warned you.,Чувствуешь себя храбрым сегодня? Помни только — я предупредил тебя.
 NPC_150127,",If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.,"Если пройдёшь безумие Анку — приходи. Хочу услышать твою историю... при условии, что ты ещё в здравом уме.
-NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,Earn 2 random Statue Effects (buffs or debuffs).
-NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,Earn 1 Statue Buff (buff only).
-NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,Change your current statue buff at random.
-NPC_150128,Just… leave me alone. I need to rest my eyes.,Just… leave me alone. I need to rest my eyes.
-NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.
-NPC_150130,Alone… I didn't stand a chance.,Alone… I didn't stand a chance.
-NPC_150131,Very well. What do you need?,Very well. What do you need?
+NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,Получи 2 случайных эффекта статуи (бафф или дебафф).
+NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,Получи 1 бафф статуи.
+NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,Смени текущий бафф статуи на случайный.
+NPC_150128,Just… leave me alone. I need to rest my eyes.,Просто… оставь меня одного. Мне нужно отдохнуть.
+NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,Я думал, смогу справиться с ним один… но он оказался гораздо сильнее, чем я ожидал. Будь готов, если планируешь сражаться с ним.
+NPC_150130,Alone… I didn't stand a chance.,Один… у меня не было шансов.
+NPC_150131,Very well. What do you need?,Хорошо. Что тебе нужно?
 NPC_150132,",Stay vigilant. In wartime, a moment's carelessness can be fatal.","Будь начеку. Во время войны секунда неосторожности может стоить жизни.
-NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Come see me if you're hurt. Proper treatment makes all the difference.
-NPC_150134,Safety is my responsibility here. I take that duty seriously.,Safety is my responsibility here. I take that duty seriously.
+NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Заходи ко мне, если ты ранен. Правильное лечение решает всё.
+NPC_150134,Safety is my responsibility here. I take that duty seriously.,Безопасность — моя обязанность здесь. Я отношусь к ней серьёзно.
 NPC_150135,",This place is quiet, but that doesn't mean we can let our guard down completely.,"Здесь тихо, но не стоит расслабляться полностью.
-NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,A soldier's watch must never fail. We protect this place with our lives.
-NPC_150137,I hope your visit brings good fortune to our village.,I hope your visit brings good fortune to our village.
+NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,Наряд солдата не должен никогда провалиться. Мы охраняем это место своими жизнями.
+NPC_150137,I hope your visit brings good fortune to our village.,Надеюсь, твой визит принесёт удачу нашей деревне.
 NPC_150138,"Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching.","Слушай то, что слышишь. Иногда важнейшая информация приходит именно в тишине.
 NPC_150139,",The ship left without me, but I can't dwell on that. Life goes on, and so must I.,"Корабль ушёл без меня, но я не буду зацикливаться. Жизнь продолжается, и я продолжу.
-NPC_150140,Quick question—can you handle a task for me?,Quick question—can you handle a task for me?
-NPC_150141,I need someone reliable. Think you're up for it?,I need someone reliable. Think you're up for it?
-NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,I've got injured people piling up. Could you help me gather some supplies?
-NPC_150143,There's something dangerous out there. I need someone to investigate.,There's something dangerous out there. I need someone to investigate.
-NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,Bored of guard duty yet? I've got something more interesting if you're interested.
-NPC_150145,We've spotted suspicious activity. I need someone to check it out.,We've spotted suspicious activity. I need someone to check it out.
-NPC_150146,A visitor like you might be able to help with something the locals can't.,A visitor like you might be able to help with something the locals can't.
-NPC_150147,I overheard something important. Want to help me follow up on it?,I overheard something important. Want to help me follow up on it?
+NPC_150140,Quick question—can you handle a task for me?,Короткий вопрос — можешь выполнить задание для меня?
+NPC_150141,I need someone reliable. Think you're up for it?,Мне нужен надёжный помощник. Думаешь, справишься?
+NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,У меня накапливаются раненые. Поможешь собрать припасы?
+NPC_150143,There's something dangerous out there. I need someone to investigate.,Там что-то опасное. Мне нужен человек, чтобы всё проверить.
+NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,Устал от охраны? У меня есть кое-что интереснее, если захочешь.
+NPC_150145,We've spotted suspicious activity. I need someone to check it out.,Мы заметили подозрительную активность. Мне нужен человек для разведки.
+NPC_150146,A visitor like you might be able to help with something the locals can't.,Такой гость, как ты, может помочь с тем, с чем местные не справятся.
+NPC_150147,I overheard something important. Want to help me follow up on it?,Я слышал кое-что важное. Помоги мне разобраться?
 NPC_150148,",I'm stuck here, but maybe you could help me with something back home?,"Я застрял здесь, но может, ты поможешь с заданием дома?
-NPC_150149,Our supplies are running low. Could you help me gather what we need?,Our supplies are running low. Could you help me gather what we need?
-NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,That shield you're carrying looks weak. I've got a job that might earn you a better one.
+NPC_150149,Our supplies are running low. Could you help me gather what we need?,Наши припасы подходят к концу. Поможешь собрать то, что нам нужно?
+NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,Твой щит выглядит слабым. У меня есть задание, которое может принести тебе лучший.
 NPC_150151,",I've found some interesting gems, but I need help appraising them properly.,"Я нашёл интересные камни, но нужна помощь с оценкой.
 NPC_150152,",There's something I need to tell you… but first, can you help me with a small task?","Хочу кое-что сказать... Но сначала помоги с мелким заданием?
-NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Those Lycans are getting bolder. I need someone to help me track their movements.
-NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,I'm looking for a real fight. Think you can point me toward something challenging?
-NPC_150155,I've been working on some new colors. Want to help me test them out?,I've been working on some new colors. Want to help me test them out?
-NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,I've been hearing strange things in people's dreams lately. Can you help me investigate?
-NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,More wounded keep coming in. I could really use some help gathering medical supplies.
+NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Ликаны становятся всё смелее. Мне нужен помощник, чтобы следить за их перемещениями.
+NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,Я ищу настоящего боя. Подскажешь, где найти достойную мишень?
+NPC_150155,I've been working on some new colors. Want to help me test them out?,Я работаю над новыми красками. Помоги мне протестировать их?
+NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,В последнее время я слышу странные вещи в снах людей. Помоги мне разобраться?
+NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,Раненых всё больше и больше. Мне реально нужна помощь с медицинскими припасами.
 NPC_150158,",I love this village, but there's something I need help protecting.,"Люблю деревню, но есть кое-что, что мне нужна твоя помощь в защите.
-NPC_150159,The trees have been whispering. They want me to find something. Will you help?,The trees have been whispering. They want me to find something. Will you help?
+NPC_150159,The trees have been whispering. They want me to find something. Will you help?,Деревья что-то шепчут. Они хотят, чтобы я нашёл кое-что. Помоги мне?
 NPC_150160,",I've got some powerful magic tools, but I need help testing them safely.,"У меня мощные магические инструменты, но нужно протестировать их безопасно.
-NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,You shouldn't be here. But since you are… maybe you can help me with something.
-NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,I've spotted some unusual Lycan movements. Want to help me scout the area?
-NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,I've been fighting for so long. Maybe you can help me finish this once and for all.
-NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,I've been having strange dreams about you. Want to help me understand what they mean?
+NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,Тебе не стоило быть здесь. Но раз уж ты здесь… может, ты смог бы мне помочь.
+NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,Я заметил необычные передвижения ликанов. Помоги мне разведать территорию?
+NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,Я сражаюсь так давно. Поможешь мне закончить это раз и навсегда?
+NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,Мне снятся странные сны о тебе. Помоги мне понять, что они означают?
 NPC_150165,",I collect stories, and I think yours might be worth hearing. But first, help me with something?,"Я собираю истории, и мне кажется, твою стоит записать. Но сначала помоги с одним делом?
 NPC_150166,",Those dogs won't come near us, but something else might. Want to help me keep watch?,"Собаки не подойдут, но кто-то другой может. Хочешь помогать с караулом?
 NPC_150167,",I'm on patrol, but I spotted something that needs investigating. Care to join me?,"Я на патруле, но заметил кое-что, что требует проверки. Присоединишься?
-NPC_150168,The stars are telling me something important. I need your help to understand it.,The stars are telling me something important. I need your help to understand it.
+NPC_150168,The stars are telling me something important. I need your help to understand it.,Звёзды сообщают мне что-то важное. Мне нужна твоя помощь, чтобы разобраться.
 NPC_150169,",I've got fresh food ready, but I need help delivering it to some people. Interested?,"Еда готова, но нужно доставить. Помоги?
 NPC_150170,",Hey, don't tell anyone you saw me, but I could use your help with something.,"Эй, не рассказывай, что видел меня... но мне нужна твоя помощь.
-NPC_150171,This village has secrets. I might share one if you help me with a task.,This village has secrets. I might share one if you help me with a task.
+NPC_150171,This village has secrets. I might share one if you help me with a task.,В этой деревне много тайн. Может поделюсь одной, если поможешь мне с заданием.
 NPC_150172,",I've been watching the constellations. Something's coming, and I need help preparing.","Я наблюдаю за созвездиями. Кое-что приближается. Помоги подготовиться.
-NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,I've got injured soldiers who need better armor. Can you help me gather materials?
+NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,У меня раненые солдаты, которым нужна лучшая броня. Помоги мне собрать материалы?
 NPC_150174,",I thought I could handle it alone, but I was wrong. Can you help me finish what I started?,"Думал, справлюсь один. Ошибся. Помоги закончить начатое?
 NPC_150175,",The stars have shown me something about you. Help me, and I'll tell you what I saw.","Звёзды показали мне кое-что о тебе. Помоги — и я расскажу.
-NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,Good armor saves lives. I need help getting materials to make more. Can you assist?
+NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,Хорошая броня спасает жизни. Мне нужна помощь с материалами для её создания. Сможешь помочь?
 NPC_150177,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?"
 NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.,"I've lived too long in one place. Help me with this, and maybe I can finally move on."
 NPC_150179,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?"
 NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?,"I forge weapons, but I need rare materials. Think you can help me find them?"
 NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?,"The village needs protection, and I need someone I can trust. Are you that person?"
 NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know."
-NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,The nightmares are getting stronger. I need someone brave enough to help me contain them.
-NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,Hunting's been tough lately. I could use help tracking down some prey.
-NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,Security is getting worse every day. I need someone to help me investigate a threat.
-NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...
+NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,Кошмары становятся сильнее. Мне нужен достаточно храбрый человек, чтобы помочь мне их сдержать.
+NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,Охота стала сложной. Поможешь отследить некоторых целей?
+NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,Ситуация с безопасностью ухудшается день ото дня. Мне нужно помочь в расследовании угрозы.
+NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,Добро пожаловать в #b#cffff0000Бюро заданий Эйлуна#nc#nb! Ищешь работу? Может, у меня есть для тебя кое-что...
 NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,"Добро пожаловать в Бюро помощи! Местные жители оставили несколько заданий. Пожалуйста, выбери интересующие."
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ,"Приносим извинения, в настоящее время нет доступных заданий для искателя приключений с вашим талантом и навыками."
 NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!"
 NPC_150190,Farewell!,Прощайте!
-NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?
+NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Добро пожаловать в #b#cffff0000Бюро#nc#nb Эйлуна. Чем могу помочь?
 NPC_150192,"So what can you do for me, huh?,"So what can you do for me, huh?"
-NPC_150193,Ugh... maybe next time.,Ugh... maybe next time.
-NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,My name is Cheirang and I manage the Office of Eillun. How can I help you today?
+NPC_150193,Ugh... maybe next time.,Ух... может как-нибудь в другой раз.
+NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,Меня зовут Черенг и я управляю Бюром Эйлуна. Чем могу помогать тебе сегодня?
 NPC_150195,Farewell!,Прощайте!
 NPC_150196,"Welcome to Eillun! Please, enjoy your stay!,"Welcome to Eillun! Please, enjoy your stay!"
 NPC_150197,"Hello, traveler. I have some missions for you!,"Приветствую, странник. У меня есть несколько миссий для тебя!"
 NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
-NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
+NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,Я мэр Эйлуна. Гармония наших садов и нашего народа — это то, что я ценю выше всего. Чем могу помочь вам сегодня под нашими вековыми деревьями?
 NPC_150200,Farewell!,Прощайте!
-NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,I've spotted a security issue that needs immediate attention. Can you handle it?
-NPC_100198,Let luck do its thing.,Let luck do its thing.
-NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,I deal in pieces and fortune.\nCare to try your luck?
-NPC_100200,Wanna test your luck?,Wanna test your luck?
+NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,Я заметил проблему с безопасностью, требующую немедленного внимания. Можешь этим заняться?
+NPC_100198,Let luck do its thing.,Пусть удача решит всё.
+NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,Я торгую кусками и удачи.\nХочешь испытать?
+NPC_100200,Wanna test your luck?,Хочешь проверить свою удачу?
