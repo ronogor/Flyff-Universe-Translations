@@ -655,7 +655,7 @@ NPC_000728,"Our troupe is always the best! If you come to one of our shows, I wi
 NPC_000729,Come and see what superior weapon crafting is like at Weapon Shop of Bulrox!,"Le forgeron Bulrox vous propose les meilleures armes de Saint Morning, n'hésitez pas !"
 NPC_000730,What can you do for me?,Peux-tu me donner un coup de main s'il te plaît ?
 NPC_000731,"Bill? It seems like he is seeing Tina secretly. Well, it does not matter to me because I like her. She is such a kind and polite girl! The real problem is that fat and obstinate woman! Darn!","J'aime vraiment beaucoup Tina, elle est si douce et gentille… mais j'ai l'impression que Bill voit Tina en secret. Erf. Enfin le vrai problème c'est cette bonne femme..."
-NPC_000732,"My name is Bulrox SHynante and I run the Weapon Shop in Saint City. Bill is my best pupil. He is very, very smart Hahaha","Je suis Bulrox SHynante, le meilleur forgeron de Saincity. Bill est mon meilleur élève, ha ha ha."
+NPC_000732,"My name is Bulrox SHynante and I run the Weapon Shop in Saint City. Bill is my best pupil. He is very, very smart Hahaha","Je suis Bulrox SHynante, le meilleur forgeron de Saincity. Je m'occupe aussi de l'arène ! Bill est mon meilleur élève, ha ha ha."
 NPC_000733,Good bye. There is nothing you cannot defeat with my weapons!,Il n'existe rien que tu ne pourras vaincre avec mes armes !
 NPC_000734,Shields for sale! Please form a single line.,Bouclier en vente ! Faites la queue.
 NPC_000735,You are in the right place if you are looking for a good shield. We only sell the highest quality ones.,Tu es tombé au bon endroit si tu cherches de l'équipement ! Je ne vends que des produits de grande qualité.
@@ -848,11 +848,11 @@ NPC_001016,"Step right up, champions! Welcome to the Chip Emporium!","Approchez,
 NPC_001017,"Heya stranger! If your guild wins the Guild Siege, you will be awarded Chips for your victory. The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?","Vous êtes intéressé ? Alors ramenez-moi des Jetons ! Vous en gagnez en terminant la guerre de guilde, le tournoi Madrigal, l’Assaut de Kalgas ou la chambre secrète… Alors, avez-vous de quoi acheter les meilleurs articles du monde ?"
 NPC_001018,"I am Waforu, the Battle Merchant. I've had my share of victories in the sieges, but I'm getting to old for that sort of thing. I still love the competition, however, so I decided to stay in the business and offer my services as a Red Chip Vendor.","Je suis Charles, le changeur de Madrigal. Tout ce que je propose est échangeable contre des Jetons Rouges."
 NPC_001019,"So long, contender. May Rhisis be with you.",Venez voir ce que je propose ! Vous n'en verrez jamais l'équivalent ailleurs !
-NPC_001024,You don't want me in that arena. I'll bury you!,Seuls les plus forts survivront en ce lieu !
+NPC_001024,You don't want me in that arena. I'll bury you!,Vous feriez mieux d'éviter de me défier dans cette arène. Je vous enterrerai !
 NPC_001025,"You know, most people simply don't understand that settling differences occasionally requires more than just petty talk. Sometimes, it requires a knuckle sandwich!",Penses tu que tu es assez fort ? Il vaudrait mieux que tu réfléchisses bien.
 NPC_001026,"My name is Harold and I run this arena, so don't cross me or it's your head! If you wish to leave the arena, just speak with me again.",Mon nom est Harold je suis le gardien de cet arène. Reviens me voir quand tu voudras retourner en Madrigal. Ha ha ha!
 NPC_001027,"Oh, burn! He took that one right to the face! It's a slobber-knocker!",Tu dois te focaliser sur comment devenir plus fort tout le temps !
-NPC_001028,Anyone need any supplies? I got what YOU need!,"Pourquoi ne te préparerais-tu pas un peu, avant le combat?"
+NPC_001028,Anyone need any supplies? I got what YOU need!,Les meilleurs combattants sont toujours bien préparés ! Venez voir ce que je vous propose.
 NPC_001029,"Once you step foot into the arena circle, you can be attacked by anyone at anytime, so watch your back! ","Hep, méfie-toi une fois entré dans l'arène, tu peux être attaqué n'importe où par n'importe qui."
 NPC_001030,"Nice to meet you, friend. My name is Deek and I sell various foods, Posters, MP recovery items, and Arrows. Let me know if you need anything.","Mon nom est Deek et je vends des objets nécessaires pour le combat. Mon gars, tu as besoin d'objets pour gagner le combat. "
 NPC_001031,Feel free to visit me again if you need some more supplies for the arena!,Il n'est pas facile d'importer des objets de Madrigal jusqu'ici……
@@ -880,6 +880,7 @@ NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting create
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!","Seules les gemmes peuvent vous conférer la puissance. Venez me voir, je vous taillerai une nouvelle gemme."
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,Je suis Angie ! Je suis Joaillière et j'assiste Bobochan. Je m'occupe de tout ce qui touche de près ou de loin aux gemmes.
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!","Prends soin de toi. N'oublie pas, pour tout ce qui concerne les bijoux, je suis là pour toi !"
+NPC_001130,We're running out of time! The newly appointed lord will be here soon!,We're running out of time! The newly appointed lord will be here soon!
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,Votre attention s'il vous plait ! On recherche des aventuriers talentueux.
 NPC_001220,Come see me if you want to become a Mentor. ,"Si vous souhaitez devenir mentor, vous devrez accomplir une mission pour moi."
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",Il n'est pas si simple de recruter des Mentors en Madrigal.
@@ -963,9 +964,9 @@ NPC_100017,I am Nemra.,Je suis Nemra.
 NPC_100018,Goodbye. See you next time.,Au revoir et à la prochaine fois.
 NPC_100019,You're coming with me to my tent?,Tu viens avec moi dans ma tente ?
 NPC_100020,"I am the only makeup artist of Madrigal! I am also one of the guides in Flarine City. If you need any help or information, just ask me!","Je dirige le seul salon de beauté de Madrigal. Je suis également l'un des guides de Flarine. Si vous avez besoin d'aide ou d'informations, n'hésitez pas à me demander !"
-NPC_100021,Who wants some makeup? I am a pro!,Qui veut du maquillage ? Je suis une pro !
-NPC_100022,"You seem to me very tired, look at that messy hair! How about a little cut?","Vous me semblez très fatiguée, regardez ces cernes ! Que diriez-vous d'un peu de maquillage ?"
-NPC_100023,I am the only hairdresser of Madrigal! I am open all the day.,Je suis la seule maquilleuse de Madrigal ! Je suis ouverte toute la journée.
+NPC_100021,Who wants some makeup? I am a pro!,Besoin d'un nouveau style ? Je suis une experte en relooking ! Je peux modifier votre apparence et enregistrer vos fashions dans votre penderie pour créer toutes vos tenues.
+NPC_100022,"You seem to me very tired, look at that messy hair! How about a little cut?","Tu as l'air très fatigué, regarde ces cheveux en bataille ! Que dirais-tu d'une petite coupe ?"
+NPC_100023,I am the only hairdresser of Madrigal! I am open all the day.,Je suis le seul coiffeur de Madrigal ! Je suis ouvert toute la journée.
 NPC_100024,Come back anytime you want!,Revenez quand vous voulez !
 NPC_100025,"Durandil swords are really great, too bad you can't mine with them...","Les épées Durandil sont vraiment super, Dommage qu'on ne puisse pas miner avec..."
 NPC_100026,"I am Dekane, the creator of this mine.",Je me présente Dekane le créateur de cette mine.
@@ -1348,3 +1349,36 @@ NPC_150201,I've spotted a security issue that needs immediate attention. Can you
 NPC_100198,Let luck do its thing.,Laissons la chance faire son œuvre.
 NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,Je fais commerce de morceaux et de fortune.\nEnvie de tenter votre chance ?
 NPC_100200,Wanna test your luck?,Envie de tenter votre chance ?
+NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb
+NPC_150203,Good Luck!,Good Luck!
+NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.
+NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…","O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…"
+NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.","So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them."
+NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.","Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately."
+NPC_155010,"P-Please help! The plants here... they're moving, they're alive!","P-Please help! The plants here... they're moving, they're alive!"
+NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...","I'm Sprout. I used to work on this farm... well, I guess it WAS a farm..."
+NPC_155012,Please save me... I just want to get out of here...,Please save me... I just want to get out of here...
+NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!","Tch, those damn Lycan... If I get out of here alive, they'll pay...!"
+NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.","Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it."
+NPC_155015,"Damn it, there are still people trapped inside!","Damn it, there are still people trapped inside!"
+NPC_155016,You're the rescue team? Good. You'll need my observation records.,You're the rescue team? Good. You'll need my observation records.
+NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.","I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident."
+NPC_155018,Hmm... I should document that mutation pattern...,Hmm... I should document that mutation pattern...
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast."
+NPC_155020,Baron here. Have you found the three yet?,Baron here. Have you found the three yet?
+NPC_155021,We don’t have much time. Every delay makes things worse.,We don’t have much time. Every delay makes things worse.
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...
+NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...","W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone..."
+NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.
+NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!","Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!"
+NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.
+NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.","Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback."
+NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.
+NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.","Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now."
+NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.
+NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.
+NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.
+NPC_156013,Oh... alright. Come find me whenever you feel ready.,Oh... alright. Come find me whenever you feel ready.
+NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.

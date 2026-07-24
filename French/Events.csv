@@ -34,7 +34,7 @@ UI_EVENT_LUCKYCAPSULE_DESC,"Earn coins by defeating monsters or completing quest
 UI_EVENT_DROPBOOST,Drop Boost!,Chance d'avoir des objets augmentée !
 UI_EVENT_SUITPIERCING,Suit Piercing!,Piercing d'armure !
 UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Festival de Musique de Flyff !
-UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,Ramassez des Notes de Musique et des Parchemins de Partition Musicale en chassant des monstrers et échangez les au PNJ Bach.
+UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,Collectez des Notes de musique et des Parchemins de partition musicale en chassant des monstres puis échangez-les au PNJ Bach.
 UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,Expérience +30% !
 UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,Expérience de Groupe +30% !
 UI_EVENT_SECRETBOOST,Secret Boost!,Boost Secret !
@@ -115,3 +115,4 @@ UI_EVENT_PTS,Public Test Server,Serveur de Test Public
 UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","Les taux sont augmentés, les temps de recharge des donjons sont réduits et plus encore ! Consultez le Discord pour plus d'informations."
 UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,Saint-Valentin 2026
 UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","Pendant l’événement Saint-Valentin 2026, les objets I♥YOU peuvent être obtenus via la Lettre de la Saint-Valentin, qui tombe des monstres vaincus ; seuls les monstres jusqu’à 10 niveaux en dessous du niveau de votre personnage peuvent lâcher l’objet."
+UI_EVENT_LOGIN,Login Event,Login Event
